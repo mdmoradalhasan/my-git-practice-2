@@ -1,3 +1,5 @@
+THIS IS THE ADDED LINE JUST TO TEST
+
 bash# Set your icommit name
 git config --global user.name "Your Name"
 
